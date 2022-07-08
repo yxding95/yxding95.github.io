@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
-date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+title:  "About Me"
+# date:   2019-03-23 21:03:36 +0530
+# categories: Javascript NodeJS
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+I am currently an Assistant Professor with the VCC group at College of Computer Science & Software Engineering, Shenzhen University. I received my Ph.D. in Information and Communication Engineering from Xidian University in 2022, supervised by Prof. Xinbo Gao. Prior to that, I received my B.E. from the School of Electronic Engineering, Xidian Univeristy in 2017. My research interest is computer vision, currently with emphasis on visual emotion analysis. I am also interested in image aesthetic analysis and image generation.
 
 ```javascript
 const Razorpay = require('razorpay');
