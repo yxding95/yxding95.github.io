@@ -40,7 +40,7 @@ I am currently an Assistant Professor with the [VCC group](https://vcc.tech/inde
 - **Outstanding Graduates of Shaanxi Province**, by Education Department of Shaanxi Provincial Government, 2022
 - **China National Scholarship**, by Ministry of Education of the People's Republic of China, 2021
 - **China National Scholarship**, by Ministry of Education of the People's Republic of China, 2015
-- **Speaking as the only student representative at the 90th anniversary celebration of Xidian University**, 2021
+- **Speaking as the only student representative at the 90th Anniversary Celebration of Xidian University**, 2021
 
 
 
