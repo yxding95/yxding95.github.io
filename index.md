@@ -46,6 +46,6 @@ I am currently an Assistant Professor with the [VCC group](https://vcc.tech/inde
 ---
 
 - English Speech (Won the first place in the Northwest Region Postgraduate English Speech Contest)
-- Badminton (Won the Women's Singles Champion in the Freshmen Cup at Xidian Univeristy)
+- Badminton (Won the women's singles champion in the Freshmen Cup at Xidian Univeristy)
 - Piano (Won the amateur six level certificate of piano)
 
