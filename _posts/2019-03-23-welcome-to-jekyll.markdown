@@ -15,7 +15,7 @@ I am currently an Assistant Professor with the [VCC group](https://vcc.tech/inde
 
 - **Stimuli-Aware Visual Emotion Analysis** 
 
-    **Jingyuan Yang**, Jie Li, Xiumei Wang, Yuxuan Ding, and Xinbo Gao. 
+    **Jingyuan Yang**, Jie Li, Xiumei Wang, Yuxuan Ding, and Xinbo Gao\*. 
   
     IEEE Transactions on Image Processing (**TIP**), 30, 7432-7445, 2021.
 
