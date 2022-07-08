@@ -16,17 +16,17 @@ I am currently an Assistant Professor with the [VCC group](https://vcc.tech/inde
 - **Stimuli-Aware Visual Emotion Analysis** 
     <br>**Jingyuan Yang**, Jie Li, Xiumei Wang, Yuxuan Ding, and Xinbo Gao\*
     <br>IEEE Transactions on Image Processing (**TIP**), 30, 7432-7445, 2021
-    ![](../assets/1.png)
+    ![](https://github.com/JingyuanYY/JingyuanYY.github.io/assets/1.png)
     
 - **SOLVER: Scene-Object Interrelated Visual Emotion Reasoning Network** 
     <br>**Jingyuan Yang**, Xinbo Gao\*, Leida Li, Xiumei Wang, and Jinshan Ding
     <br>IEEE Transactions on Image Processing (**TIP**), 30, 8686-8701, 2021
-    ![](../assets/2.png)
+    ![](https://github.com/JingyuanYY/JingyuanYY.github.io/assets/2.png)
     
 - **A Circular-Structured Representation for Visual Emotion Distribution Learning** 
     <br>**Jingyuan Yang**, Jie Li, Leida Li, Xiumei Wang, and Xinbo Gao\*
     <br>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 4237-4246, 2021
-    ![](../assets/3.png)
+    ![](https://github.com/JingyuanYY/JingyuanYY.github.io/assets/3.png)
 
 
 
