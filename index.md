@@ -33,3 +33,13 @@ I am currently an Assistant Professor with the [VCC group](https://vcc.tech/inde
     <div align="center">
     <img src="../assets/3.png" width="60%">
     </div>
+    
+# Selected Awards
+---
+
+- Outstanding Graduates of Shaanxi Province, 2022
+- China National Scholarship, by Ministry of Education of China, 2021
+- China National Scholarship, by Ministry of Education of China, 2015
+
+
+
