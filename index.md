@@ -42,5 +42,10 @@ I am currently an Assistant Professor with the [VCC group](https://vcc.tech/inde
 - **China National Scholarship**, by Ministry of Education of the People's Republic of China, 2015
 - **Speaking as the only student representative at the 90th Anniversary Celebration of Xidian University**, 2021
 
+# Hobbies
+---
 
+- English Speech (Won the first place in the Northwest Region Postgraduate English Speech Contest)
+- Badminton (Won the Women's Singles Champion in the Freshmen Cup at Xidian Univeristy)
+- Piano (Won the amateur six level certificate of piano)
 
