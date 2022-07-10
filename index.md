@@ -31,7 +31,7 @@ I am currently an Assistant Professor with the [VCC group](https://vcc.tech/inde
 - **A Circular-Structured Representation for Visual Emotion Distribution Learning** 
     <br>**Jingyuan Yang**, Jie Li, Leida Li, Xiumei Wang, and Xinbo Gao\*
     <br>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 4237-4246, 2021
-    <br>\[[PDF](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_A_Circular-Structured_Representation_for_Visual_Emotion_Distribution_Learning_CVPR_2021_paper.pdf)\]
+    <br>\[[PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_A_Circular-Structured_Representation_for_Visual_Emotion_Distribution_Learning_CVPR_2021_paper.html)\]
     
     <div align="center">
     <img src="../assets/3.png" width="60%">
