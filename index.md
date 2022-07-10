@@ -1,5 +1,6 @@
 ---
 layout: home
+title: "Jingyuan Yang"
 ---
 
 # About Me
