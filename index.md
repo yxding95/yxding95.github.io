@@ -5,7 +5,7 @@ layout: home
 # About Me
 ---
 
-I am currently an Assistant Professor with the [Visual Computing Research Center (VCC)](https://vcc.tech/index.html) (headed by Prof. [Hui Huang](https://vcc.tech/~huihuang)) at [College of Computer Science & Software Engineering](https://csse.szu.edu.cn/), Shenzhen University. I received my Ph.D. in Information and Communication Engineering from Xidian University in 2022, supervised by [Prof. Xinbo Gao](https://see.xidian.edu.cn/faculty/xbgao/). Prior to that, I received my B.E. from the School of Electronic Engineering, Xidian Univeristy in 2017. My research interest is computer vision, currently with emphasis on visual emotion analysis. I am also interested in image aesthetic analysis and image generation.
+I am currently an Assistant Professor with the [Visual Computing Research Center (VCC)](https://vcc.tech/index.html) (headed by [Prof. Hui Huang](https://vcc.tech/~huihuang)) at [College of Computer Science & Software Engineering](https://csse.szu.edu.cn/), Shenzhen University. I received my Ph.D. in Information and Communication Engineering from Xidian University in 2022, supervised by [Prof. Xinbo Gao](https://see.xidian.edu.cn/faculty/xbgao/). Prior to that, I received my B.E. from the School of Electronic Engineering, Xidian Univeristy in 2017. My research interest is computer vision, currently with emphasis on visual emotion analysis. I am also interested in image aesthetic analysis and image generation.
 
 # Publications
 ---
