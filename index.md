@@ -38,6 +38,15 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <img src="../assets/3.png" width="60%">
     </div>
     
+- **Seeking Subjectivity in Visual Emotion Distribution Learning** 
+    <br>**Jingyuan Yang**, Jie Li, Leida Li, Xiumei Wang, Yuxuan Ding, and Xinbo Gao\*
+    <br>IEEE Transactions on Image Processing (**TIP**), 2022
+    <br>\[[PDF]\]
+    
+    <div align="center">
+    <img src="../assets/2.png" width="60%">
+    </div>
+    
 # Selected Awards
 ---
 
