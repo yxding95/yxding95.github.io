@@ -17,7 +17,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 &#129412;
 
 &#129303;
-<strong>**Please feel free to contact me: jyyang@szu.edu.cn**</strong>
+<b>**Please feel free to contact me: jyyang@szu.edu.cn**</b>
 &#129303;
 
 # Publications
