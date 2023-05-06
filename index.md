@@ -16,6 +16,8 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 **I am also expecting undergraduate students to contact me with your graduation projects.**
 &#129412;
 
+Email: jyyang@szu.edu.cn
+
 # Publications
 ---
 
