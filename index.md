@@ -12,9 +12,9 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 **I am looking for master students who are motivated, self-disciplined and optimistic. Please feel free to contact me.**
 &#10024;
 
-&#11088;
+&#128293;
 **I am also expecting undergraduate students to contact me with your graduation projects.**
-&#11088;
+&#128293;
 
 # Publications
 ---
