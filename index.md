@@ -1,25 +1,16 @@
 ---
 layout: home
-title: "Jingyuan Yang"
+title: "Yuxuan Ding"
 ---
 
 # About Me
 ---
 
-I am currently an Assistant Professor with the [Visual Computing Research Center (VCC)](https://vcc.tech/index.html) (headed by [Prof. Hui Huang](https://vcc.tech/~huihuang)) at the [College of Computer Science & Software Engineering](https://csse.szu.edu.cn/), Shenzhen University. I received my Ph.D. in Information and Communication Engineering from Xidian University in 2022, supervised by [Prof. Xinbo Gao](https://see.xidian.edu.cn/faculty/xbgao/). Prior to that, I received my B.E. from the School of Electronic Engineering, Xidian University in 2017. My research interest is computer vision, currently with emphasis on visual emotion analysis. I am also interested in image aesthetics and generation tasks.
+I am currently an PhD Candidate with at the School of Electronic Engineering, Xidian University, under the supervision of Prof. Chunna Tian. Prior to that, I received my B.E. from the School of Electronic Engineering, Xidian University in 2018. My research interest is computer vision, currently with emphasis on vision-and-language model. I am also interested in Image-to-text and Text-to-image generation tasks. Since 2022, 
 
-&#10024;
-**I am looking for master students who are motivated, self-disciplined and optimistic.**
-&#10024;
+<p><b> E-mail: yxding@stu.xidian.edu.cn </b></p> 
 
-&#129412;
-**I am also expecting undergraduate students to contact me with your graduation projects.**
-&#129412;
-
-
-<p><b> &#129303; Contact me: jyyang@szu.edu.cn &#129303; </b></p> 
-
-
+<!-- 
 # Publications
 ---
 
@@ -59,7 +50,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <img src="../assets/4.png" width="60%">
     </div>
     
-# Selected Awards
+# Experiences
 ---
 
 - **Outstanding Graduate of Shaanxi Province**, by Education Department of Shaanxi Provincial Government, 2022
@@ -73,4 +64,4 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 - **English Speech** (First place in the Northwest Region Postgraduate English Speech Contest)
 - **Badminton** (Women's singles champion in the Freshmen Cup at Xidian Univeristy)
 - **Piano** (Amateur six level certificate of piano)
-
+ -->
