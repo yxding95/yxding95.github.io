@@ -28,9 +28,9 @@ I am currently an PhD Candidate at the School of Electronic Engineering, Xidian 
 <br>\[[PDF](https://arxiv.org/abs/2301.07597)\]
 
 - **Position-Aware Relation Learning for RGB-Thermal Salient Object Detection** 
-    <br>Heng Zhou, Chunna Tian\*, Zhenxi Zhang, Chengyang Li, **Yuxuan Ding**, Yongqiang Xie, and Zhongbo Li
-    <br>IEEE Transactions on Image Processing (**TIP**), 32, 2593-2607, 2023
-    <br>\[[PDF](https://ieeexplore.ieee.org/abstract/document/10113883)\]
+<br>Heng Zhou, Chunna Tian\*, Zhenxi Zhang, Chengyang Li, **Yuxuan Ding**, Yongqiang Xie, and Zhongbo Li
+<br>IEEE Transactions on Image Processing (**TIP**), 32, 2593-2607, 2023
+<br>\[[PDF](https://ieeexplore.ieee.org/abstract/document/10113883)\]
 
 - **Don't Stop Learning: Towards Continual Learning for the CLIP Model** 
 <br>**Yuxuan Ding**, Lingqiao Liu\*, Chunna Tian\*, Jingyuan Yang, and Haoxuan Ding
@@ -38,20 +38,20 @@ I am currently an PhD Candidate at the School of Electronic Engineering, Xidian 
 <br>\[[PDF](https://arxiv.org/abs/2207.09248)\]
 
 - **Seeking Subjectivity in Visual Emotion Distribution Learning** 
-    <br>Jingyuan Yang, Jie Li, Leida Li, Xiumei Wang, **Yuxuan Ding**, and Xinbo Gao\*
-    <br>IEEE Transactions on Image Processing (**TIP**), 31, 5189-5202, 2022
-    <br>\[[PDF](https://ieeexplore.ieee.org/abstract/document/9846869)\]
+<br>Jingyuan Yang, Jie Li, Leida Li, Xiumei Wang, **Yuxuan Ding**, and Xinbo Gao\*
+<br>IEEE Transactions on Image Processing (**TIP**), 31, 5189-5202, 2022
+<br>\[[PDF](https://ieeexplore.ieee.org/abstract/document/9846869)\]
 
 - **Stimuli-Aware Visual Emotion Analysis** 
-    <br>Jingyuan Yang, Jie Li, Xiumei Wang, **Yuxuan Ding**, and Xinbo Gao\*
-    <br>IEEE Transactions on Image Processing (**TIP**), 30, 7432-7445, 2021
-    <br>\[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9524517)\]
+<br>Jingyuan Yang, Jie Li, Xiumei Wang, **Yuxuan Ding**, and Xinbo Gao\*
+<br>IEEE Transactions on Image Processing (**TIP**), 30, 7432-7445, 2021
+<br>\[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9524517)\]
 
 
 - **Jointing Cross-Modality Retrieval to Reweight Attributes for Image Caption Generation** 
-    <br>**Yuxuan Ding**, Wei Wang, Mengmeng Jiang, Heng Liu, Donghu Deng, Wei Wei, and Chunna Tian\*
-    <br>Pattern Recognition and Computer Vision (PRCV 2019), 62-74, 2019
-    <br>\[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-31726-3_6)\]
+<br>**Yuxuan Ding**, Wei Wang, Mengmeng Jiang, Heng Liu, Donghu Deng, Wei Wei, and Chunna Tian\*
+<br>Pattern Recognition and Computer Vision (PRCV 2019), 62-74, 2019
+<br>\[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-31726-3_6)\]
 
 
 
