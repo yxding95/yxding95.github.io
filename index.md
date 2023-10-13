@@ -6,14 +6,14 @@ title: "Yuxuan Ding"
 # About Me
 ---
 
-I am currently an PhD Candidate at the School of Electronic Engineering, Xidian University, under the supervision of Prof. Chunna Tian. Prior to that, I received my B.E. from the School of Electronic Engineering, Xidian University in 2018. I have been serving as a visiting researcher at The University of Adelaide since 2022, under the supervision of Dr. Lingqiao Liu. My research interest is computer vision, currently with emphasis on vision-and-language model, especially image-to-text and text-to-image generation. 
+I am currently an PhD Candidate at the School of Electronic Engineering, Xidian University, under the supervision of Prof. Chunna Tian. Prior to that, I received my B.E. from the School of Electronic Engineering, Xidian University in 2018. I have been serving as a visiting researcher at The University of Adelaide since 2022, under the supervision of Dr. Lingqiao Liu. My research interest is computer vision, currently with an emphasis on vision-and-language model, especially image-to-text and text-to-image generation. 
 
 <p><b> E-mail: yxding@stu.xidian.edu.cn </b></p> 
 
 # Publications
 ---
 - **The CLIP Model is Secretly an Image-to-Prompt Converter** 
-<br>**Yuxuan Ding**, Chunna Tian, Haoxuan Ding, and Lingqiao Liu\*
+<br>**Yuxuan Ding**, Chunna Tian\*, Haoxuan Ding, and Lingqiao Liu\*
 <br>Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2023
 <br>\[[PDF](https://arxiv.org/abs/2305.12716)\]
 
