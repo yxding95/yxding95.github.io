@@ -1,16 +1,22 @@
 ---
 layout: home
-title: "Yuxuan Ding"
+title: "Haoxuan Ding"
 ---
 
 # About Me
 ---
 
-I am currently a PhD Candidate at the School of Electronic Engineering, Xidian University, under the supervision of Prof. Chunna Tian. Prior to that, I received my B.E. from the School of Electronic Engineering, Xidian University in 2018. I have been a visiting researcher at The University of Adelaide since 2022, under the supervision of Dr. Lingqiao Liu. My research interest is computer vision, currently with an emphasis on vision-and-language model, especially image-to-text and text-to-image generation. 
+I am currently an PhD Candidate at the Unmanned System Research Institute, Northwestern Polytechnical University, under the supervision of Prof. Qi Wang. My research interest is computer vision, currently with an emphasis on object detection and multimodal learning in intelligent transportation system.
 
-<p><b> E-mail: yxding@stu.xidian.edu.cn </b></p> 
+<p><b> E-mail: haoxuan.ding@mail.nwpu.edu.cn </b></p> 
 
 # Publications
+---
+- **FF-LPD: A Real-Time Frame-by-Frame License Plate Detector with Knowledge Distillation and Feature Propagation** 
+<br>**Haoxuan Ding**, Junyu Gao, Yuan Yuan, and Qi Wang
+<br>IEEE Transactions on Image Processing (**T-IP**), accepted, 2024
+<br>\[[PDF](https://ieeexplore.ieee.org/document/10564853)\]
+
 ---
 - **The CLIP Model is Secretly an Image-to-Prompt Converter** 
 <br>**Yuxuan Ding**, Chunna Tian\*, Haoxuan Ding, and Lingqiao Liu\*
